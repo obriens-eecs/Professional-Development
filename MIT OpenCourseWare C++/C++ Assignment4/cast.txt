@@ -1,0 +1,2 @@
+reinterpret_cast<Triangle *>(rect);
+dynamic_cast<Triangle *>(rect);
